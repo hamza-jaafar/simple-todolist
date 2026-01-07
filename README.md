@@ -1,40 +1,57 @@
-# 📝 My Todo List – HTML/CSS Challenge
+# 📝 Simple Todo List – HTML & CSS
 
-A simple and clean Todo List built with pure HTML and CSS as part of restarting my programming journey from scratch.
+A clean and responsive Todo List built with pure HTML and CSS as part of strengthening my front-end fundamentals.
 
-## 🚀 Purpose of this Project
+## 🔗 Live Demo
 
-- Practice fundamental HTML elements  
-- Improve layout and alignment with CSS  
-- Understand forms, labels, and inputs  
-- Build a presentable UI without frameworks
+➡️ **Try it now:** https://simple-todolist-html.netlify.app/
+
+## 🚀 About This Project
+
+This is a beginner-friendly project designed to:
+
+- Practice fundamental HTML structure  
+- Improve layout and alignment using CSS  
+- Build a simple, user-friendly UI without JavaScript
 
 ## ✨ Features
 
-- Left-aligned professional layout  
-- Accessible labels connected to checkboxes  
-- Responsive design for all screens  
-- Pure code: no libraries, no dependencies
+- Lightweight and fast
+- Professional, modern UI/UX
+- Accessible form labels
+- Clean left-aligned layout
+- Works on mobile & desktop browsers
 
 ## 🛠 Technologies Used
 
-- HTML5  
-- CSS3  
-- Forms & Input Elements
+- **HTML5**
+- **CSS3**
+- Built without libraries or frameworks
 
-## 📱 Responsive
+## 📸 Screenshot
 
-The interface adapts smoothly to mobile, tablet, and desktop using standard viewport settings.
+<img width="899" height="602" alt="image" src="https://github.com/user-attachments/assets/936b1baa-81eb-43e0-b1d9-33722352f929" />
 
-## 📌 Next Steps
 
-This is a base version. Future improvements will include:
+## 🧠 What I Learned
 
-- Custom styling without `<br>`  
-- JavaScript interactions  
-- Progress tracking  
-- Backend integration
+This project helped me practice:
+
+- Semantic HTML  
+- Flexbox alignment  
+- CSS styling and interaction design  
+- Structuring a presentable front-end project
+
+## 📌 Future Improvements
+
+Planned upgrades:
+
+- Add interaction with JavaScript  
+- Save tasks to local storage  
+- Drag & drop ordering  
+- Task completion animations
 
 ---
 
-Made with ❤️ while enjoying the journey and embracing the work.
+Made with ❤️ while embracing the journey and enjoying the work.
+
